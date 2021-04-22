@@ -4,7 +4,7 @@ body {
     background-position: top;
     background-color: rgb(1, 0, 8);
     background-attachment: fixed;
-    
+
 }
 
 h1 {
@@ -64,5 +64,12 @@ input{
     border-radius: 40px;
     font-size: 20px;
     font-family:monospace;
+    padding: 5px 32px;
+    display: inline-block;
+    border: 5px solid #3106f3;
+    
+    
+    
 }
+
 
